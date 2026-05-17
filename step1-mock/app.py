@@ -12,7 +12,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Step 1: Mock feedback", page_icon="📝")
-st.title("📝 Workshop feedback (mock)")
+st.title("📝 Workshop feedback (mock changed)")
 st.caption("Step 1 — data lives only in this browser tab. Refresh and it's gone.")
 
 if "responses" not in st.session_state:
