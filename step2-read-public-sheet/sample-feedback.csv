@@ -1,0 +1,13 @@
+timestamp,workshop,rating,comments,status
+2026-05-10 14:30,Intro to Python,5,Loved the pace.,reviewed
+2026-05-10 14:35,Intro to Python,4,More examples please.,new
+2026-05-10 15:02,Intro to Python,5,,reviewed
+2026-05-11 10:15,Pandas Basics,5,Clear explanations.,reviewed
+2026-05-11 10:40,Pandas Basics,3,A bit fast for me.,new
+2026-05-11 11:05,Pandas Basics,4,Good hands-on.,new
+2026-05-11 11:30,Pandas Basics,2,Wifi kept dropping.,new
+2026-05-12 16:00,Streamlit Apps,5,Deploying was magic.,reviewed
+2026-05-12 16:20,Streamlit Apps,4,Want more on charts.,new
+2026-05-17 13:10,Streamlit Apps,5,Best session yet.,reviewed
+2026-05-17 13:25,Streamlit Apps,3,Ran out of time.,new
+2026-05-17 13:50,Intro to Python,4,,new
