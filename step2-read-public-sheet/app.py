@@ -85,4 +85,4 @@ with c5:
         st.info("No timestamp data to chart.")
 
 with st.expander("Show raw data"):
-    st.dataframe(filtered, use_container_width=True, hide_index=True)
+    st.dataframe(filtered, width="stretch", hide_index=True)

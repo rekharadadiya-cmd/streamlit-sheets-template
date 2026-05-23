@@ -79,7 +79,7 @@ with manage_tab:
     editable_columns = [c for c in df.columns if c != "status"]
     edited = st.data_editor(
         df,
-        use_container_width=True,
+        width="stretch",
         hide_index=True,
         disabled=editable_columns,
         column_config=(

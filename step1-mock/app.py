@@ -42,7 +42,7 @@ with st.form("feedback_form", clear_on_submit=True):
 df = pd.DataFrame(st.session_state.responses)
 
 st.subheader("Responses so far")
-st.dataframe(df, use_container_width=True, hide_index=True)
+st.dataframe(df, width="stretch", hide_index=True)
 
 st.subheader("Rating distribution")
 st.bar_chart(df["rating"].value_counts().sort_index())
